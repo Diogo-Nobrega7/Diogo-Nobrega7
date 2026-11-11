@@ -1,8 +1,6 @@
 # Diogo Nóbrega
 
 Estudante de TI na UFRN, trabalhando com dados na Secretaria da Educação do RN.
-Gosto de transformar planilhas bagunçadas em algo que alguém consegue ler.
-Nas horas vagas, sou mestre de D&D.
 
 ## O que eu faço
 
