@@ -33,10 +33,3 @@ Nas horas vagas, sou mestre de D&D.
 | [Processos-e-Threads](https://github.com/Diogo-Nobrega7/Processos-e-Threads) | Trabalho prático de Sistemas Operacionais em C |
 | [WumpusIA](https://github.com/Diogo-Nobrega7/WumpusIA) | Agente para o Mundo de Wumpus, trabalho de IA |
 | [Sistema-Bancario-Simples](https://github.com/Diogo-Nobrega7/Sistema-Bancario-Simples) | Sistema bancário em C++ |
-
-## Estatísticas
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Diogo-Nobrega7&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Nobrega7&layout=compact&hide_border=true" />
-</p>
