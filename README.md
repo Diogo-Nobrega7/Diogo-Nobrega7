@@ -1,6 +1,7 @@
 # Diogo Nóbrega
 
-Estudante de TI na UFRN, trabalhando com dados na Secretaria da Educação do RN.
+Estudante de TI na UFRN, atualmente atuando na SUEP/SEEC-RN com análise e visualização de dados voltada para o acompanhamento da rede de ensino técnico do RN.
+Utilizo Python, SQL e Power BI para estruturar bases de dados, organizar fluxos de informação e gerar dashboards estratégicos. .
 
 ## O que eu faço
 
